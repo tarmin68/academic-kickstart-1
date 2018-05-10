@@ -10,31 +10,32 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Security & Privacy",
+    "Internet of Things",
+    "Cyber-Physical Systems"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science & Engineering"
+  institution = "University of Michigan"
+  year = 2017
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "MSE in Computer Science & Engineering"
+  institution = "University of Michigan"
+  year = 2015
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  course = "BSc in Computer Engineering"
+  institution = "Sharif University of Technology"
+  year = 2011
+
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Amir Rahmati /æ'mi:r ræh'mæti/ (written as امیر رحمتی in Persian) is a visiting scholar at [Samsung Research America](https://www.sra.samsung.com/research/mobile-payments-and-security). He earned his Ph.D. in Computer Science & Engineering from the department of [Electrical Engineering and Computer Science](http://cse.umich.edu/) at the [University of Michigan](https://umich.edu) working with Professor [Atul Prakash](http://www.eecs.umich.edu/~aprakash/). He received his Masters degree  working with Professor [Kevin Fu](http://www.eecs.umich.edu/~kevinfu/) at [SPQR Lab](https://spqr.eecs.umich.edu/) and his B.Sc. degree in [Computer Engineering](http://ce.sharif.edu) from [Sharif University of Technology](http://www.sharif.ir/en/) working with Professor [Seyed-Ghassem Miremadi](http://sina.sharif.ac.ir/~miremadi/).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+
+His research focuses on the security of emerging technologies and resource-limited systems such as embedded and Internet of Things (IoT) systems. His works involve designing, building, and evaluating systems that tackle security challenges in these domains.
