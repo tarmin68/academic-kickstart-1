@@ -17,7 +17,7 @@ weight = 51
 I'm looking for students with diverse backgrounds and expertise to work on challenging research problems across the system stack.
 
 - Do you like designing and developing elegant systems that tackle real-world problems?
-- Do you have expertise in hardware, software, machine learning, user experience, or network protocols?
+- Do you have expertise in hardware, software, machine learning, UX, or network protocols and measurement?
 - Are you passionate about security and privacy?
 
 If your answer to these questions is yes, there may be a place for you in my group.
