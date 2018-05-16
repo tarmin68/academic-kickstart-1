@@ -1,0 +1,19 @@
+ul.network-icon{
+    width: 260px;
+}
+
+div.container{
+  width: 85%;
+}
+
+div.col-sm-5{
+  width: 39%;
+}
+
+div.col-sm-7{
+  width: 61%;
+}
+
+html {
+font-size: 100%;
+}

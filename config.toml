@@ -35,7 +35,7 @@ defaultContentLanguageInSubdir = false
 
 # Configure BlackFriday Markdown rendering.
 #   See: https://gohugo.io/readfiles/bfconfig/
-[blackfriday] 
+[blackfriday]
   hrefTargetBlank = true  # `true` opens external links in a new tab.
   fractions = true  # `false` disables smart fractions (e.g. 5/12 formatted as a fraction).
   smartypants = true  # `false` disables all smart punctuation substitutions (e.g. smart quotes, dashes, fractions).
@@ -163,15 +163,26 @@ defaultContentLanguageInSubdir = false
   #   The language can be edited below.
   #   For multilingual sites, `publication_types` can be copied to each language section at the end of this file and
   #   translated.
+  # publication_types = [
+  #   'Uncategorized',  # 0
+  #   'Conference paper',  # 1
+  #   'Journal article',  # 2
+  #   'Manuscript',  # 3
+  #   'Report',  # 4
+  #   'Book',  # 5
+  #   'Book section',  # 6
+  #   'Poster' # 7
+  #   'Workshop paper' # 8
+  # ]
   publication_types = [
     'Uncategorized',  # 0
     'Conference paper',  # 1
     'Journal article',  # 2
-    'Manuscript',  # 3
+    'Workshop paper',  # 3
     'Report',  # 4
     'Book',  # 5
     'Book section',  # 6
-    'Poster' # 7
+    'Poster', # 7
   ]
 
   # Configuration of talk pages.
@@ -269,7 +280,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "file"
     icon_pack = "fa"
-    link = "/content/publication/Amir_Rahmati_CV.pdf"
+    link = "/dl/Amir_Rahmati_CV.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -285,9 +296,14 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
+   name = "CV"
+   url = "/dl/Amir_Rahmati_CV.pdf"
+   weight = 2
+
+[[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 2.5
 
 [[menu.main]]
   name = "Posts"
