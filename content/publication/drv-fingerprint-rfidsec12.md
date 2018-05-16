@@ -18,7 +18,7 @@ authors = ["Daniel Holcomb", "**Amir Rahmati**", "Mastooreh Salajegheh", "Wayne 
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In Workshop On RFID Security And Privacy (RFIDsec’12)"
+publication = "In Workshop On RFID Security And Privacy (RFIDsec)"
 #publication_short = "#"
 
 # Abstract and optional shortened version.
