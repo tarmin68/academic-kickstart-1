@@ -18,7 +18,7 @@ authors = ["**Amir Rahmati**", "Mastooreh Salajegheh", "Daniel Holcomb", "Jacob 
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In USENIX Security Symposium (USENIX Sec)"
+publication = "USENIX Security Symposium (USENIX Sec)"
 #publication_short = "#"
 
 # Abstract and optional shortened version.

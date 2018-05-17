@@ -1,6 +1,6 @@
 +++
 title = "WattsUpDoc: Power Side Channels to Nonintrusively Discover Untargeted Malware on Embedded Medical Devices"
-date = "2013-08-21"
+date = "2013-05-18"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Shane Clark","Benjamin Ransford","**Amir Rahmati**", "Shane Guineau", "Jacob Sorber", "Wenyuan Xu", "Kevin Fu"]
@@ -18,8 +18,8 @@ authors = ["Shane Clark","Benjamin Ransford","**Amir Rahmati**", "Shane Guineau"
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In USENIX Workshop on Health Information Technologies (Health Tech)"
-#publication_short = "#"
+publication = "USENIX Workshop on Health Information Technologies (Health Tech)"
+#publication_short = "Health Tech 2013"
 
 # Abstract and optional shortened version.
 abstract = ""
@@ -39,7 +39,7 @@ selected = false
 # Links (optional).
 url_custom = [{name = "Venue", url = "http://www.usenix.org/conference/healthsec13/"},
 {name = "MIT Tech Review", url = "http://www.technologyreview.com/news/517746/electric-therapy-for-medical-device-malware"}]
-#url_pdf = "#"
+url_pdf = "/dl/healthtech13/WattsUpDoc_HealthTech13.pdf"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"

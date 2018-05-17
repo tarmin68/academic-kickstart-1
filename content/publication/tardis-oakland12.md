@@ -18,7 +18,7 @@ authors = ["**Amir Rahmati**", "Mastooreh Salajegheh", "Daniel Holcomb", "Jacob 
 publication_types = ["7"]
 
 # Publication name and optional abbreviated version.
-publication = "In Poster and Short Talk session of IEEE Symposium on Security and Privacy  (IEEE S&P)"
+publication = "Poster and Short Talk session of IEEE Symposium on Security and Privacy  (IEEE S&P)"
 #publication_short = "#"
 
 # Abstract and optional shortened version.
