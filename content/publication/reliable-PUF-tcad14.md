@@ -1,6 +1,6 @@
 +++
 title = "Reliable Physical Unclonable Functions using Data Retention Voltage of SRAM Cells"
-date = "2014-11-01"
+date = "2014-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Xiaolin Xu", "**Amir Rahmati**", "Daniel Holcomb", "Kevin Fu", "Wayne Burleson"]
