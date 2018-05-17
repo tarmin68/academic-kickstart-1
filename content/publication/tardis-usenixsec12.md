@@ -41,12 +41,12 @@ url_custom = [{name = "Venue", url = "https://www.usenix.org/conference/usenixse
 {name = "Microsoft Research", url = "http://research.microsoft.com/apps/video/default.aspx?id=170890"},
 {name = "IEEE Spectrum", url = "http://spectrum.ieee.org/semiconductors/memory/could-an-sram-hourglass-save-rfid-chips-just-in-time"},
 {name = "SlashDot", url = "http://it.slashdot.org/story/12/08/07/006229/time-machines-computer-memory-and-brute-force-attacks-against-smartcards"}]
-#url_pdf = "#"
+url_pdf = "/dl/usenix12/TARDIS_Usenix12.pdf"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
-#url_slides = "#"
+url_slides = "/dl/usenix12/TARDIS_Slides_Usenix12.pdf"
 url_video = "https://www.usenix.org/conference/usenixsecurity12/tardis-time-and-remanence-decay-sram-implement-secure-protocols-embedded"
 #url_poster = "#"
 #url_source = "#"
