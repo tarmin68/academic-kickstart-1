@@ -1,5 +1,5 @@
 +++
-title = "DRV-Fingerprinting: Using Data Retention Voltage of SRAM Cells for Chip Identification"
+title = "Refreshing Thoughts on DRAM: Power Saving vs. Data Integrity"
 date = "2014-03-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
