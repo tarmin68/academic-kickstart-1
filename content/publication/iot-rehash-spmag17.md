@@ -3,7 +3,7 @@ title = "Internet of Things Security Research: A Rehash of Old Ideas or New Inte
 date = "2017-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Earlence Fernandes", "**Amir Rahmati**", "Kevin Eykholt", "Atul Prakash"]
+authors = ["Earlence Fernandes", "Amir Rahmati", "Kevin Eykholt", "Atul Prakash"]
 
 # Publication type.
 # Legend:

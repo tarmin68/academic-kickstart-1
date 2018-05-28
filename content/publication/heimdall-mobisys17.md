@@ -3,7 +3,7 @@ title = "Heimdall: A Privacy-Respecting Implicit Preference Collection Framework
 date = "2017-08-19"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Amir Rahmati**", "Earlence Fernandes", "Kevin Eykholt", "Xinheng Chen",  "Atul Prakash"]
+authors = ["Amir Rahmati", "Earlence Fernandes", "Kevin Eykholt", "Xinheng Chen",  "Atul Prakash"]
 
 # Publication type.
 # Legend:

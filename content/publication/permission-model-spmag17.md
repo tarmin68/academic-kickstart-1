@@ -3,7 +3,7 @@ title = "The Security Implications of Permission Models of Smart Home Applicatio
 date = "2017-04-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Earlence Fernandes", "**Amir Rahmati**", "Jaeyeon Jung", "Atul Prakash"]
+authors = ["Earlence Fernandes", "Amir Rahmati", "Jaeyeon Jung", "Atul Prakash"]
 
 # Publication type.
 # Legend:

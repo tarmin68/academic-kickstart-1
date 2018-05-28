@@ -3,7 +3,7 @@ title = "Caterpillar: Iterative Concolic Execution for Stateful Programs"
 date = "2018-04-19"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Laurent Simon", "Shuying Liang", "**Amir Rahmati**", "Mike Grace"]
+authors = ["Laurent Simon", "Shuying Liang", "Amir Rahmati", "Mike Grace"]
 
 # Publication type.
 # Legend:

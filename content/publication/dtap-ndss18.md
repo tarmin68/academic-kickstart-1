@@ -3,7 +3,7 @@ title = "Decentralized Action Integrity for Trigger-Action IoT Platforms"
 date = "2018-02-18"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Earlence Fernandes", "**Amir Rahmati**", "Jaeyeon Jung", "Atul Prakash"]
+authors = ["Earlence Fernandes", "Amir Rahmati", "Jaeyeon Jung", "Atul Prakash"]
 
 # Publication type.
 # Legend:

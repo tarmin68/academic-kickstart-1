@@ -3,7 +3,7 @@ title = "FlowFence: Practical Data Protection for Emerging IoT Application Frame
 date = "2016-08-10"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Earlence Fernandes", "Justin Paupore","**Amir Rahmati**", "Daniel Simionato", "Mauro Conti", "Atul Prakash"]
+authors = ["Earlence Fernandes", "Justin Paupore","Amir Rahmati", "Daniel Simionato", "Mauro Conti", "Atul Prakash"]
 
 # Publication type.
 # Legend:

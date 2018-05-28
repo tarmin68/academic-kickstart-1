@@ -3,7 +3,7 @@ title = "DRV-Fingerprinting: Using Data Retention Voltage of SRAM Cells for Chip
 date = "2012-07-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Daniel Holcomb", "**Amir Rahmati**", "Mastooreh Salajegheh", "Wayne Burleson", "Kevin Fu"]
+authors = ["Daniel Holcomb", "Amir Rahmati", "Mastooreh Salajegheh", "Wayne Burleson", "Kevin Fu"]
 
 # Publication type.
 # Legend:

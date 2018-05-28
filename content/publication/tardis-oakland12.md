@@ -3,7 +3,7 @@ title = "TARDIS: Secure Time Keeping For Embedded Devices Without Clocks"
 date = "2012-05-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Amir Rahmati**", "Mastooreh Salajegheh", "Daniel Holcomb", "Jacob Sorber", "Wayne Burleson", "Kevin Fu"]
+authors = ["Amir Rahmati", "Mastooreh Salajegheh", "Daniel Holcomb", "Jacob Sorber", "Wayne Burleson", "Kevin Fu"]
 
 # Publication type.
 # Legend:

@@ -3,7 +3,7 @@ title = "Towards Comprehensive Repositories of Opinions"
 date = "2016-11-09"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Han Zhang", "Kasra Edalat Nejad","**Amir Rahmati**", "Harsha V. Madhyastha"]
+authors = ["Han Zhang", "Kasra Edalat Nejad","Amir Rahmati", "Harsha V. Madhyastha"] 
 
 # Publication type.
 # Legend:

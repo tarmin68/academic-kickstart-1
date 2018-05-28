@@ -3,7 +3,7 @@ title = "Refreshing Thoughts on DRAM: Power Saving vs. Data Integrity"
 date = "2014-03-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Amir Rahmati**", "Matthew Hicks", "Daniel Holcomb", "Kevin Fu"]
+authors = ["Amir Rahmati", "Matthew Hicks", "Daniel Holcomb", "Kevin Fu"]
 
 # Publication type.
 # Legend:

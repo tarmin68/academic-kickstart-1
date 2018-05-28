@@ -3,7 +3,7 @@ title = "ContexIoT: Towards Providing Contextual Integrity to Appified IoT Platf
 date = "2017-02-26"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Yunhan Jack Jia", "Qi Alfred Chen", "Shiqi Wang", "**Amir Rahmati**", "Earlence Fernandes",  "Z. Morley Mao", "Atul Prakash"]
+authors = ["Yunhan Jack Jia", "Qi Alfred Chen", "Shiqi Wang", "Amir Rahmati", "Earlence Fernandes",  "Z. Morley Mao", "Atul Prakash"]
 
 # Publication type.
 # Legend:

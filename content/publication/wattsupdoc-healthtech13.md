@@ -3,7 +3,7 @@ title = "WattsUpDoc: Power Side Channels to Nonintrusively Discover Untargeted M
 date = "2013-05-18"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Shane Clark","Benjamin Ransford","**Amir Rahmati**", "Shane Guineau", "Jacob Sorber", "Wenyuan Xu", "Kevin Fu"]
+authors = ["Shane Clark","Benjamin Ransford","Amir Rahmati", "Shane Guineau", "Jacob Sorber", "Wenyuan Xu", "Kevin Fu"]
 
 # Publication type.
 # Legend:

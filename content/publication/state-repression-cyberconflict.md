@@ -3,7 +3,7 @@ title = "Cyber Dimensions of State Repression"
 date = "2013-10-19"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Meredith Blank", "Anita Ravishankar", "**Amir Rahmati**"]
+authors = ["Meredith Blank", "Anita Ravishankar", "Amir Rahmati"]
 
 # Publication type.
 # Legend:

@@ -3,7 +3,7 @@ title = "Context-Specific Access Control: Conforming Permissions With User Expec
 date = "2015-10-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Amir Rahmati**", "Harsha V. Madhyastha"]
+authors = ["Amir Rahmati", "Harsha V. Madhyastha"]
 
 # Publication type.
 # Legend:

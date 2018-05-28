@@ -3,7 +3,7 @@ title = "Approximate Flash Storage: A Feasibility Study"
 date = "2016-04-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Amir Rahmati**", "Matthew Hicks", "Atul Prakash"]
+authors = ["Amir Rahmati", "Matthew Hicks", "Atul Prakash"]
 
 # Publication type.
 # Legend:

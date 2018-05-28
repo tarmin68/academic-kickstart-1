@@ -3,7 +3,7 @@ title = "Support for Security and Safety of Programmable IoT Systems"
 date = "2017-07-14"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Alex Gyori", "Earlence Fernandes", "**Amir Rahmati**", "Atul Prakash", "Darko Marinov" ]
+authors = ["Alex Gyori", "Earlence Fernandes", "Amir Rahmati", "Atul Prakash", "Darko Marinov" ]
 
 # Publication type.
 # Legend:

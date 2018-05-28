@@ -3,7 +3,7 @@ title = "Applying the Opacified Computation Model to Enforce Information Flow Po
 date = "2016-11-03"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Amir Rahmati**", "Earlence Fernandes", "Atul Prakash"]
+authors = ["Amir Rahmati", "Earlence Fernandes", "Atul Prakash"]
 
 # Publication type.
 # Legend:

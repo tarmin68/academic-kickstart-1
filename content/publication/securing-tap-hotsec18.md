@@ -3,7 +3,7 @@ title = "Securing Trigger-Action Platforms"
 date = "2017-08-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Earlence Fernandes", "**Amir Rahmati**", "Jaeyeon Jung", "Atul Prakash"]
+authors = ["Earlence Fernandes", "Amir Rahmati", "Jaeyeon Jung", "Atul Prakash"]
 
 # Publication type.
 # Legend:

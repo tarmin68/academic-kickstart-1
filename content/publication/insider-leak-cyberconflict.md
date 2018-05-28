@@ -3,7 +3,7 @@ title = "Under What Circumstances Are Insider Leaks Justified?"
 date = "2013-11-19"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Ben Lusher", "Kathryn Reeves", "**Amir Rahmati**"]
+authors = ["Ben Lusher", "Kathryn Reeves", "Amir Rahmati"]
 
 # Publication type.
 # Legend:

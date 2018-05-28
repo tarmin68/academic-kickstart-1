@@ -3,7 +3,7 @@ title = "Reliable Physical Unclonable Functions using Data Retention Voltage of 
 date = "2014-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Xiaolin Xu", "**Amir Rahmati**", "Daniel Holcomb", "Kevin Fu", "Wayne Burleson"]
+authors = ["Xiaolin Xu", "Amir Rahmati", "Daniel Holcomb", "Kevin Fu", "Wayne Burleson"]
 
 # Publication type.
 # Legend:

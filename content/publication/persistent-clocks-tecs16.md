@@ -3,7 +3,7 @@ title = "Persistent Clocks for Batteryless Sensing Devices"
 date = "2016-08-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Josiah Hester", "Nicole Tobias","**Amir Rahmati**", "Lanny Sitanayah","Daniel Holcomb", "Kevin Fu", "Jacob Sorber"]
+authors = ["Josiah Hester", "Nicole Tobias","Amir Rahmati", "Lanny Sitanayah","Daniel Holcomb", "Kevin Fu", "Jacob Sorber"]
 
 # Publication type.
 # Legend:

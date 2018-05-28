@@ -3,7 +3,7 @@ title = "Probable Cause: The Deanonymizing Effects of Approximate DRAM"
 date = "2015-06-13"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Amir Rahmati**", "Matthew Hicks", "Daniel Holcomb", "Kevin Fu"]
+authors = ["Amir Rahmati", "Matthew Hicks", "Daniel Holcomb", "Kevin Fu"]
 
 # Publication type.
 # Legend:

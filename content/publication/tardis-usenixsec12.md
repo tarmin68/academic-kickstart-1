@@ -3,7 +3,7 @@ title = "TARDIS: Time and Remanence Decay in SRAM to Implement Secure Protocols 
 date = "2012-08-21"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Amir Rahmati**", "Mastooreh Salajegheh", "Daniel Holcomb", "Jacob Sorber", "Wayne Burleson", "Kevin Fu"]
+authors = ["Amir Rahmati", "Mastooreh Salajegheh", "Daniel Holcomb", "Jacob Sorber", "Wayne Burleson", "Kevin Fu"]
 
 # Publication type.
 # Legend:

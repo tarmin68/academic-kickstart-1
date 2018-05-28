@@ -3,7 +3,7 @@ title = "IFTTT vs. Zapier: A Comparative Study of Trigger-Action Programming Fra
 date = "2017-09-08"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Amir Rahmati**", "Earlence Fernandes", "Jaeyeon Jung", "Atul Prakash"]
+authors = ["Amir Rahmati", "Earlence Fernandes", "Jaeyeon Jung", "Atul Prakash"]
 
 # Publication type.
 # Legend:
