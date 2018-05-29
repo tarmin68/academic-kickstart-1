@@ -11,7 +11,7 @@ title = "![Ethos Lab](/img/ethos.png)"
 #subtitle = ""
 
 # Order that this section will appear in.
-weight = 19
+weight = 16
 
 
 +++

@@ -11,7 +11,7 @@ title = "Prospective Students"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 51
+weight = 18
 
 +++
 I'm looking for students with diverse backgrounds and expertise to work on challenging research problems across the system stack.

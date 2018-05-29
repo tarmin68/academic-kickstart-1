@@ -17,3 +17,21 @@ div.col-sm-7{
 html {
 font-size: 100%;
 }
+
+/* a {
+  text-decoration:none;
+  transition-duration:0.5s;
+} */
+
+/* a:focus{
+  text-decoration:none;
+  transition-duration:0.5s;
+  transition-property:color;
+}
+
+a:hover {
+  color:#6666BB !important;
+  text-decoration:none;
+  transition-duration:0.5s;
+  transition-property:color;
+} */

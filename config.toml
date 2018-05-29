@@ -51,17 +51,17 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Amir Rahmati"
-  role = "Assistant Professor"
+  role = "Visiting Scholar"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stony Brook University", url = "https://www.cs.stonybrook.edu/" } ]
+  organizations = [{name="Samsung Research America", url="https://www.sra.samsung.com/research/mobile-payments-and-security"}]#, { name = "Stony Brook University", url = "https://www.cs.stonybrook.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "amir_rahmati.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "amir@rahmati.com"
-  address = "Department of Computer Science, Stony Brook University, Stony Brook, NY 11794-2424"
-  office_hours = "Office hours: By appointment only"
+  #address = "Department of Computer Science, Stony Brook University, Stony Brook, NY 11794-2424"
+  #office_hours = "Office hours: By appointment only"
   phone = "+1 413 331 9438"
   skype = "ameer.rahmati"
   telegram = "ameerrahmati"
@@ -278,8 +278,8 @@ defaultContentLanguageInSubdir = false
     link = "//github.com/rahmati"
 
   [[params.social]]
-    icon = "file"
-    icon_pack = "fa"
+    icon = "cv"
+    icon_pack = "ai"
     link = "/dl/Amir_Rahmati_CV.pdf"
 
 # Navigation Links
@@ -306,9 +306,14 @@ defaultContentLanguageInSubdir = false
    weight = 2
 
 [[menu.main]]
+ name = "Prospective Students"
+ url = "#prospective"
+ weight = 3
+
+[[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 3
+  weight = 4
 
   # [[menu.main]]
   #   name = "Posts"
@@ -321,11 +326,10 @@ defaultContentLanguageInSubdir = false
   #   weight = 4
   #
 
-
-[[menu.main]]
-  name = "Prospective Students"
-  url = "#prospective"
-  weight = 4
+  [[menu.main]]
+    name = "Useful Links"
+    url = "#links"
+    weight = 5
 
 [[menu.main]]
   name = "Contact"
