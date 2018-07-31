@@ -1,6 +1,6 @@
 +++
 title = "Tyche: A Risk-Based Permission Model for Smart Homes"
-date = "2018-05-17"
+date = "2018-05-18"
 #date = "2018-09-30"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -39,8 +39,8 @@ selected = false
 
 # Links (optional).
 url_custom = [{name = "Venue", url = "https://secdev.ieee.org/2018/"}]
-#url_pdf = "#"
-#url_preprint = "#"
+url_pdf = "/dl/secdev18/Tyche_SecDev18.pdf"
+url_preprint = "https://arxiv.org/abs/1801.04609"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"

@@ -38,15 +38,15 @@ selected = false
 #projects = ["embedded-systems"]
 
 # Links (optional).
-url_custom = [{name = "Venue", url = "http://cvpr2018.thecvf.com/"}]
-#url_pdf = "#"
+url_custom = [{name = "Venue", url = "http://cvpr2018.thecvf.com/"},{name =    "Video", url = "https://www.youtube.com/watch?v=xwKpX-5Q98o"},{name =    "Video 2", url = "https://www.youtube.com/watch?v=1mJMPqi2bSQ"}]
+url_pdf = "/dl/cvpr18/Robust-Attacks_CVPR18.pdf"
 url_preprint = "https://arxiv.org/abs/1707.08945"
-#url_code = "#"
+url_code = "https://github.com/evtimovi/robust_physical_perturbations"
 #url_dataset = "#"
 #url_project = "#"
 #url_slides = "#"
-#url_video = "#"
-#url_poster = "#"
+#url_video = ""
+url_poster = "/dl/cvpr18/Robust-Attacks_Poster_CVPR18.pdf"
 #url_source = "#"
 
 

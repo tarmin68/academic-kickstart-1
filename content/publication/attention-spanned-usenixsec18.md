@@ -39,7 +39,7 @@ selected = false
 
 # Links (optional).
 url_custom = [{name = "Venue", url = "https://www.usenix.org/conference/usenixsecurity18"}]
-#url_pdf = "#"
+url_pdf = "/dl/usenix18/ATCommand_UsenixSec18.pdf"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"

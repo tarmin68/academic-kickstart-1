@@ -51,11 +51,11 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Amir Rahmati"
-  role = "Visiting Scholar"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [{name="Samsung Research America", url="https://www.sra.samsung.com/research/mobile-payments-and-security"}]#, { name = "Stony Brook University", url = "https://www.cs.stonybrook.edu/" } ]
+  organizations = [{name="Stony Brook University", url="http://www.cs.stonybrook.edu/"}]#, { name = "Stony Brook University", url = "https://www.cs.stonybrook.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "amir_rahmati.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
