@@ -14,6 +14,11 @@ div.col-sm-7{
   width: 61%;
 }
 
+div.article-container{
+
+  max-width: 900px;
+}
+
 html {
 font-size: 100%;
 }
