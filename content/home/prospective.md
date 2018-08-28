@@ -22,4 +22,4 @@ I'm looking for students with diverse backgrounds and expertise to work on chall
 
 If your answer to these questions is yes, there may be a place for you in my group.
 
-Interested? [Fill out this form](https://goo.gl/forms/p9rwEu7Q1FvJeorB3).
+Interested? **[Fill out this form](https://goo.gl/forms/p9rwEu7Q1FvJeorB3)** and tell me about yourself. Then, [apply to our graduate program](https://www.cs.stonybrook.edu/admissions/Graduate-Program).

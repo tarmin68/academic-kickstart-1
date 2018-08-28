@@ -1,7 +1,7 @@
 +++
 title = "ATtention Spanned: Comprehensive Vulnerability Analysis of AT Commands Within the Android Ecosystem"
-date = "2018-05-16"
-#date = "2018-08-21"
+#date = "2018-05-16"
+date = "2018-08-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Dave Tian", "Grant Hernandez", "Joseph Choi", "Vanessa Frost", "Christie Raules", "Kevin Butler", "Patrick Traynor", "Hayawardh Vijayakumar", "Lee Harrison", "Amir Rahmati", "Mike Grace"]

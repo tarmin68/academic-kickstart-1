@@ -1,6 +1,6 @@
 +++
 title = "Tyche: A Risk-Based Permission Model for Smart Homes"
-date = "2018-05-18"
+date = "2018-08-15"
 #date = "2018-09-30"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

@@ -1,10 +1,9 @@
 +++
 title = "Physical Adversarial Examples for Object Detectors"
-date = "2018-05-17"
-#date = "2018-08-16"
+date = "2018-08-13"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Kevin Eykholt", "Ivan Evtimov", "Earlence Fernandes", "Bo Li",  "Florian Tramer", "Atul Prakash", "Tadayoshi Kohno", "Dawn Song"]
+authors = ["Kevin Eykholt", "Ivan Evtimov", "Earlence Fernandes", "Bo Li",  "Amir Rahmati", "Florian Tramer", "Atul Prakash", "Tadayoshi Kohno", "Dawn Song"]
 
 # Publication type.
 # Legend:
